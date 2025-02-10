@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "tailwindcss-motion";
+@import "tailwindcss-intersect";
+
+@theme {
+  --font-poppins: Poppins, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}

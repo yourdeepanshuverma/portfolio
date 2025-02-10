@@ -6,7 +6,7 @@ const About = () => {
     >
       <img
         className="intersect-once intersect:motion-preset-slide-up motion-duration-700"
-        src="../src/assets/image.png"
+        src="/assets/image.png"
         alt=""
       />
       <div className="intersect-once intersect:motion-preset-slide-up motion-duration-700 flex max-w-xl flex-col gap-8 text-center lg:text-left">

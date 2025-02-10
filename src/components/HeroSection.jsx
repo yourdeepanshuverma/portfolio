@@ -22,7 +22,7 @@ const HeroSection = () => {
         <div className="relative size-72 overflow-hidden rounded-full bg-neutral-100 lg:size-96">
           <img
             className="absolute left-1/2 top-[-30%] -translate-x-1/2 transform"
-            src="../src/assets/myImage.png"
+            src="/assets/myImage.png"
             alt="My Image"
           />
         </div>
